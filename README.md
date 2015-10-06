@@ -1,3 +1,16 @@
+## Student Summary
+
+Included in the repository are the four .png files required for the
+assignment, as well as the four .R files used to generate them. To
+keep from replicating code between the four .R files, there is a
+fifth file included in the directory named 'data_prep.R' which is
+called in each of the other four .R files to pull in the raw data
+and clean it for the purposes of this assignment. 'data_prep.R'
+assumes you have downloaded and unzipped the necessary raw data file
+(i.e. 'household_power_consumption.txt') into the same working
+directory as these .R files are located in.
+
+
 ## Introduction
 
 This assignment uses data from
